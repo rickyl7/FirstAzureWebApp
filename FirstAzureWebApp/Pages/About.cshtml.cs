@@ -12,7 +12,7 @@ namespace FirstAzureWebApp.Pages
 
         public void OnGet()
         {
-            Message = "Your application description page.";
+            Message = "Simple first web app based on Microsoft sample.";
         }
     }
 }
